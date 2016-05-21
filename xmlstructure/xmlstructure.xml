@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!-- Root element -->
+<response>
+	<people>
+		<person>
+			<name>Reymark Torres</name>
+			<address>0883 Wilshire St. Sv2 Palangoy, Binangonan Rizal</address>
+		</person>
+		<person>
+			<name>Lady Morganne Lumbre</name>
+			<address>26 Rainbow Drive St. Parkland Est. Malanday Marikina</address>
+		</person>
+	</people>
+</response>
